@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap');
+  
+body{
+  text-align:center;
+  font-size: 2rem;
+  font-family: 'Open Sans', sans-serif;
+  margin:0;
+}
+
+h1{
+  color: #92400E;
+  background-color: #E5E7EB;
+  margin:0;
+}
+p{
+  background-color: #E5E7EB;
+  margin: 0;
+  color: #6B7280;
+  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+#img-div{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color:#B45309;
+  border-radius: 1rem;
+  display: block;
+  margin-left:0;
+  margin-right:0;
+ 
+}
+#img-div:hover{
+  background-color:#92400E;
+ 
+}
+
+#image{
+  border-radius: 1rem;
+  width: 500px;
+  height: 900px;
+}
+
+#image:hover{
+  width: 600px;
+  height: 1000px;
+}
+
+
+
+
+#img-caption{
+  font-size: 1rem;
+  font-style: italic;
+}
+
+#tribute-info{
+  padding: 2rem;
+  background-color:#E5E7EB;
+  display: block;
+  border-radius: 1rem;
+}
+
+#tribute-info:hover{
+  background-color: #D1D5DB;
+}
+
+h3{
+  color: #B45309;
+/*   font-size: 1.5rem; */
+}
+ul{
+  font-size: 1rem;
+  text-align: justify;
+  line-height: 2.5;
+  width: 800px;
+  margin: auto;
+}
+
+.footer{
+  background-color:#E5E7EB; 
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 1rem 0rem 0rem 0rem;
+}
+#tribute-link{
+  color: #B45309;
+}
+
+#tribute-link:hover{
+  color:#92400E;
+}
